@@ -9,6 +9,7 @@
 Categorias e Propriedades Universais - Victor Damian Almeida](https://repositorio.ufsc.br/bitstream/handle/123456789/203173/TCC%20II%20Victor%20Damian%20Almeida.pdf?sequence=1&isAllowed=y)
 - [A Vida em Setas: Uma Introdução à Teoria de Categorias Aplicada - Violeta Martins de Freitas](https://www.teses.usp.br/teses/disponiveis/55/55135/tde-18032020-125514/publico/VioletaMartinsdeFreitas.pdf)
 - [O Isomorfismo de Curry-Howard via Teoria de Categorias: Fabiana Lopes Fernandes](https://www.mat.ufmg.br/posgrad/wp-content/uploads/TesesDissertacoes/Diss166.pdf)
+- [Introdução às Infinito-Categorias: Marina Maria de Miguel](https://repositorio.ufscar.br/server/api/core/bitstreams/f4373a0e-44ed-4357-937d-df16d056c65a/content)
 ### Artigos: 
 - [Uma Breve Introdução à Teoria das Categorias - Fernando P. P. Reis e Maico F. Ribeiro](https://www.researchgate.net/publication/343376413_Uma_Breve_Introducao_a_Teoria_Das_Categorias)
 
